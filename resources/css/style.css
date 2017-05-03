@@ -20,6 +20,13 @@ p {
   color: white;
 }
 
+.sub-headers {
+  font-family: Verdana;
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
 #footer {
   text-align: right;
 }
